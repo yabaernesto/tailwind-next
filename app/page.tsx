@@ -56,7 +56,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label
               htmlFor="email"
               className="text-sm font-medium text-zinc-700"
@@ -76,7 +76,7 @@ export default function Home() {
             </Input.Root>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label
               htmlFor="email"
               className="text-sm font-medium text-zinc-700"
@@ -90,7 +90,7 @@ export default function Home() {
             <div></div>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label htmlFor="role" className="text-sm font-medium text-zinc-700">
               Role
             </label>
@@ -100,7 +100,7 @@ export default function Home() {
             </Input.Root>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label
               htmlFor="country"
               className="text-sm font-medium text-zinc-700"
@@ -110,7 +110,7 @@ export default function Home() {
             <div></div>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label
               htmlFor="timezone"
               className="text-sm font-medium text-zinc-700"
@@ -120,7 +120,7 @@ export default function Home() {
             <div></div>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label htmlFor="bio" className="text-sm font-medium text-zinc-700">
               Bio
             </label>
@@ -131,7 +131,7 @@ export default function Home() {
             <div></div>
           </div>
 
-          <div className="grid-cols-form grid gap-3 pt-5">
+          <div className="grid-cols-form grid gap-3 pt-5 pb-5">
             <label
               htmlFor="projects"
               className="text-sm font-medium text-zinc-700"
